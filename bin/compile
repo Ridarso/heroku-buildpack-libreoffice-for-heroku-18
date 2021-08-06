@@ -46,4 +46,4 @@ echo "export PATH=$RUNTIME_INSTALL_PATH/opt/$INSTALLED_VERSION/program:\$PATH" >
 echo "export OFFICE_PATH=$RUNTIME_INSTALL_PATH/opt/$INSTALLED_VERSION" >> $PROFILE_PATH
 rm -rf $INSTALL_DIR/opt/$INSTALLED_VERSION/help/
 rm -rf $INSTALL_DIR/opt/$INSTALLED_VERSION/share/gallery/
-rm -rf $INSTALL_DIR/opt/$INSTALLED_VERSION/share/template//
+rm -rf $INSTALL_DIR/opt/$INSTALLED_VERSION/share/template/
